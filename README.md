@@ -1,5 +1,7 @@
 # 🤖 Vision-Guided Robotic Arm Control
 This project combines **computer vision** and **inverse kinematics** to control a two-link **robotic arm** in real time using a webcam and ESP32! The Python program tracks a red object and maps its position to servo angles, visualizing the arm’s movement using matplotlib and controlling actual servos via serial communication.
+## 📸 Demo
+https://github.com/user-attachments/assets/f5a9a32b-f621-4b41-80bd-97ab4723f8dd
 
 ## 🚀 Features
 - 🔴 Real-time object tracking with OpenCV
@@ -9,9 +11,6 @@ This project combines **computer vision** and **inverse kinematics** to control 
 - 🦾 Compact design for small-scale screens and environments
 - 🎥 Supports mirrored webcam view correction
 
-## 📸 Demo
-
-https://github.com/user-attachments/assets/f5a9a32b-f621-4b41-80bd-97ab4723f8dd
 
 
 ## 🛠️ Hardware Requirements
