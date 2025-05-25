@@ -11,6 +11,9 @@ This project combines **computer vision** and **inverse kinematics** to control 
 
 ## 📸 Demo
 
+https://github.com/user-attachments/assets/f5a9a32b-f621-4b41-80bd-97ab4723f8dd
+
+
 ## 🛠️ Hardware Requirements
 - 🧠 ESP32 board
 - 🔩 2 Servo motors (e.g., SG90)
