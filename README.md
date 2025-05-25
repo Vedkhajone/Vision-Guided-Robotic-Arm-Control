@@ -39,9 +39,7 @@ pip install opencv-python numpy matplotlib pyserial
 3️⃣ Upload ESP32 code
 
 Open code/esp32_servo_control.ino in Arduino IDE or PlatformIO.
-
 Select your ESP32 board and upload the code.
-
 The ESP32 reads angles sent over serial and controls servos.
 
 4️⃣ Run Python script
@@ -49,10 +47,10 @@ The ESP32 reads angles sent over serial and controls servos.
 python code/arm_control.py
 ```
 ## ⚙️ ESP32 Code Highlights
-esp32_servo_control.ino:
-Listens for serial data from Python.
-Parses angle commands (e.g., 30,45\n).
-Moves two servo motors to the specified angles.
+- esp32_servo_control.ino:
+- Listens for serial data from Python.
+- Parses angle commands (e.g., 30,45\n).
+- Moves two servo motors to the specified angles.
 
 ## 📝 Wiring Diagram
 🔗 Coming soon: detailed wiring diagram with ESP32 pinout and servo connections!
