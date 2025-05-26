@@ -69,7 +69,7 @@ python code/arm_control.py
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🙌 Acknowledgments
-Built with ❤️ by Vedhanshu Khajone
+Built with ❤ by Vedhanshu Khajone
 
 ## 🚀 Ready to contribute?
 Feel free to fork, star ⭐, and submit pull requests!
