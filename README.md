@@ -55,8 +55,8 @@ python code/arm_control.py
 - Moves two servo motors to the specified angles.
 
 ## 📝 Wiring Diagram
-🔗 Coming soon: detailed wiring diagram with ESP32 pinout and servo connections!
-
+  Available in Circuit folder
+  
 ## 🔥 How It Works
 - Step 1: Webcam captures frames.
 - Step 2: OpenCV detects red-colored object (HSV mask).
